@@ -1,0 +1,66 @@
+
+.container {
+  background-color: moccasin;
+  color: midnightblue;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MK1faMg_bprxfFWD3-hwXXR3BIMESBXe0XpUNtZLUbFe76W9');
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+}
+
+
+label {
+  color: #2fbaf9;
+  font-size: 25px;
+  font-family: 'Oleo Script', cursive;
+}
+
+
+
+h1 {
+  float: right;
+  color: #d6ff4f;
+  font-family: 'Emblema One', cursive;
+  font-size: 96px;
+  text-decoration: underline;
+  font-weight: bolder;
+  box-shadow: 5px 10px;
+}
+
+body {
+  font-weight: bold;
+  font-size: 26px;
+  font-style: oblique;
+  font-family: 'Nova Slim' cursive;
+  box-sizing: content-box;
+}
+
+h4 {
+  color: #d6ff4f;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 53px;
+  font-family: 'Baloo Thambi' cursive;
+  b
+
+}
+
+label {
+  color: #2fbaf9;
+  font-size: 35px;
+  font-family: 'Oleo Script', cursive;
+  border-radius: 5px 10px 5px 10px;
+}
+h3 {
+  color:  #2fbaf9;
+  text-decoration: overline;
+  font-size: 32px;
+  font-weight: bold;
+}
+button {
+  color: midnightblue;
+  background-color: #d6ff4f;
+  font-weight: bold;
+  float: left;
+  border-radius: 15px 30px 15px 30px;
+}
